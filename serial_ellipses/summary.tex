@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{url}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem*{note}{Note}
+\newcommand\abs[1]{\left|#1\right|}
+\begin{document}
+
+This short description gives context to my questions at the bottom. We wish to solve the ODE
+\[
+\frac{dq}{dt} = P_{V(q)}(U(q))
+\]
+where $q$ are the positions of the circles, $V$ the set of allowed velocities and $U(q)$ is a vector of desired velocities.
+
+Recent results show that \cite{edmond2005relaxation} if, for each time $t$, the constraint set $Q(t)$ of allowed positions satisfies a geometric condition that guarantees local well-definedness of the projection $P_Q$, then there exists a unique, absolutely continuous solution to the above ODE.  The condition is prox regularity. Define the projection onto closed set $S$ as
+\[
+	P_S(y) = \{ z \in S \mid d_S(y) = \abs{y - z} \}
+\]
+then the proximal normal cone $N(S, x)$ at $x$ is 
+\[
+	N(S, x) = \{ v \mid \textrm{ there exists } \alpha > 0, \quad P_S(x + \alpha v) \}.
+\]
+Finally,
+\begin{definition}
+	Let $S \subset \mathbb{R}^n$ be closed. Then $S$ is $\eta$-prox-regular if for all $y \in S, x \in \partial S$ and unit vector $v \in N(S, x)$,
+\[
+	B(x + \eta v, \eta) \cap S = \emptyset	
+\]
+\end{definition}
+
+The key result of \cite{maury2011discrete} is that $Q$ is prox regular. They verify a standard regularity condition for the $C^2$ constraint functions $f_i(q)$ that define $Q$. Namely, the gradients $\nabla_q f_i(q)$ must be positively linearly independent. 
+
+Thus the key ingredient both for the theory and numerics is a description of the gradient vectors $\nabla_q f_i(q)$. In the case of circles, this is easy to compute directly from the distance function $f_i(q) = \abs{q_i - q_j} - 2R$ or geometrically: moving two circles apart on a line through their centers always increases the distance between them so the gradient points in this direction.
+
+The distance between two ellipses requires solving a quartic \cite{choi2006continuous}, so an explicit formula for the gradient is difficult. A good model problem is the distance between an point and an ellipse (though this still requires solving a quadratic equation \cite{maisonobe2003}). Let $d(g)$ be the distance between an ellipse with configuration $g \in SE(2)$ (orientation preserving rotations and translations) and the origin. Then how do we compute compute $\nabla_g d(g)$ if we don't have an explicit formula for $d$? More generally, what does the 'gradient' mean on a Lie group? Which directional derivative points in the direction of steepest ascent?
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}

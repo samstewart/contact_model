@@ -1,0 +1,826 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.6)  8 MAY 2019 10:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**point_and_circle_uzawa.m
+(./point_and_circle_uzawa.m
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 c
+     lear n2
+? 
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--9
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 h
+       = .2
+? 
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--15
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 f
+      or t = 1:200
+? q
+OK, entering \batchmode...
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--18
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 	p
+       lot_circle(q, R);
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 	plot_
+           circle(q, R);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.24 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (146.72383pt too wide) in paragraph at lines 19--24
+[]$[]\OML/cmm/m/it/10 ircle\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 q; R\OT1/cmr/m/n/1
+0 ); \OML/cmm/m/it/10 drawnow\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 c\OT1/cmr/m/n/1
+0 (2) =
+ []
+
+
+Overfull \hbox (24.88318pt too wide) in paragraph at lines 19--24
+\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 (2) +
+ []
+
+
+Overfull \hbox (10.7616pt too wide) in paragraph at lines 19--24
+\OML/cmm/m/it/10 h \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (25.5139pt too wide) in paragraph at lines 19--24
+\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 end$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 f
+      unction [v_cur, lambda] = uzawa_project(q, v_prime, radius, h)
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no v in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 function [v_
+                 cur, lambda] = uzawa_project(q, v_prime, radius, h)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.26 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--26
+[]
+ []
+
+
+Overfull \hbox (63.83885pt too wide) in paragraph at lines 25--26
+[]\OML/cmm/m/it/10 ur; lambda\OT1/cmr/m/n/10 ] =
+ []
+
+
+Overfull \hbox (152.33261pt too wide) in paragraph at lines 25--26
+\OML/cmm/m/it/10 uzawa[]roject\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 q; v[]rime; rad
+ius; h\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 n
+       = length(q);
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 27--29
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 v
+      _cur = zeros(length(q), 1);
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no v in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.30 v_
+       cur = zeros(length(q), 1);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.33 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.1432pt too wide) in paragraph at lines 30--33
+[]$[]\OML/cmm/m/it/10 ur \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (118.73506pt too wide) in paragraph at lines 30--33
+\OML/cmm/m/it/10 zeros\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 length\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 q\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1); \OML/
+cmm/m/it/10 v[]ast \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (125.74785pt too wide) in paragraph at lines 30--33
+\OML/cmm/m/it/10 zeros\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 length\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 q\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1); \OML/
+cmm/m/it/10 error[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (19.93294pt too wide) in paragraph at lines 30--33
+\OML/cmm/m/it/10 Inf\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 [
+      B, distances] = normals_and_distances(q);
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.34 [B, distances] = normals_
+                              and_distances(q);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.40 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 34--40
+[]
+ []
+
+
+Overfull \hbox (93.09848pt too wide) in paragraph at lines 34--40
+[]\OML/cmm/m/it/10 nd[]istances\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 q\OT1/cmr/m/n/
+10 ); \OML/cmm/m/it/10 B \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (18.5394pt too wide) in paragraph at lines 34--40
+\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 h \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (93.57748pt too wide) in paragraph at lines 34--40
+\OML/cmm/m/it/10 B\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 signed[]istances \OT1/cmr/
+m/n/10 =
+ []
+
+
+Overfull \hbox (49.68597pt too wide) in paragraph at lines 34--40
+\OML/cmm/m/it/10 distances \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 34--40
+\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (82.29243pt too wide) in paragraph at lines 34--40
+\OML/cmm/m/it/10 radiustotal[]teps \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (72.98572pt too wide) in paragraph at lines 34--40
+\OT1/cmr/m/n/10 0; \OML/cmm/m/it/10 whileerror[] >
+ []
+
+
+Overfull \hbox (17.43408pt too wide) in paragraph at lines 34--40
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 e \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (37.05672pt too wide) in paragraph at lines 34--40
+\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 v[]ast \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (22.2127pt too wide) in paragraph at lines 34--40
+\OML/cmm/m/it/10 v[]ur\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 	s
+       olve_unconstrained = @(lambda) v_prime - B * lambda;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.41 	solve_
+            unconstrained = @(lambda) v_prime - B * lambda;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (94.64554pt too wide) in paragraph at lines 41--44
+[]$[]\OML/cmm/m/it/10 nconstrained \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (86.50288pt too wide) in paragraph at lines 41--44
+\OT1/cmr/m/n/10 @(\OML/cmm/m/it/10 lambda\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 v[]r
+ime \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (13.08682pt too wide) in paragraph at lines 41--44
+\OML/cmm/m/it/10 B \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (131.28596pt too wide) in paragraph at lines 41--44
+\OML/cmm/m/it/10 lambda\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 constraint[]radient \
+OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (75.62405pt too wide) in paragraph at lines 41--44
+\OT1/cmr/m/n/10 @(\OML/cmm/m/it/10 v[]ew\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 real\
+OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B[] \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (34.04178pt too wide) in paragraph at lines 41--44
+\OML/cmm/m/it/10 v[]ew\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (73.26854pt too wide) in paragraph at lines 41--44
+\OML/cmm/m/it/10 signed[]istances\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 	[
+       v_cur, lambda] = uzawa(lambda, solve_unconstrained, constraint_gradie...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no v in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.46 	[v_
+         cur, lambda] = uzawa(lambda, solve_unconstrained, constraint_gradie...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.50 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (83.83885pt too wide) in paragraph at lines 46--50
+[]$[]\OML/cmm/m/it/10 ur; lambda\OT1/cmr/m/n/10 ] =
+ []
+
+
+Overfull \hbox (304.1713pt too wide) in paragraph at lines 46--50
+\OML/cmm/m/it/10 uzawa\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lambda; solve[]nconstra
+ined; constraint[]radient; :\OT1/cmr/m/n/10 5); \OML/cmm/m/it/10 error[] \OT1/c
+mr/m/n/10 =
+ []
+
+
+Overfull \hbox (68.44778pt too wide) in paragraph at lines 46--50
+\OML/cmm/m/it/10 sum\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 abs\OT1/cmr/m/n/10 (\OML/
+cmm/m/it/10 v[]ur \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (86.87851pt too wide) in paragraph at lines 46--50
+\OML/cmm/m/it/10 v[]ast\OT1/cmr/m/n/10 )); \OML/cmm/m/it/10 total[]teps \OT1/cm
+r/m/n/10 =
+ []
+
+
+Overfull \hbox (50.3774pt too wide) in paragraph at lines 46--50
+\OML/cmm/m/it/10 total[]teps \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (25.3079pt too wide) in paragraph at lines 46--50
+\OT1/cmr/m/n/10 1; \OML/cmm/m/it/10 end$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 t
+      otal_steps;
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.51 total_
+           steps;
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.52 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (45.03824pt too wide) in paragraph at lines 51--52
+[]$[]\OML/cmm/m/it/10 teps\OT1/cmr/m/n/10 ;$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 e
+      nd
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 53--54
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 f
+      unction [v_new, lambda_new] = uzawa(lambda_old, solve_unconstrained, c...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no v in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.55 function [v_
+                 new, lambda_new] = uzawa(lambda_old, solve_unconstrained, c...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.56 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 55--56
+[]
+ []
+
+
+Overfull \hbox (84.86241pt too wide) in paragraph at lines 55--56
+[]\OML/cmm/m/it/10 ew; lambda[]ew\OT1/cmr/m/n/10 ] =
+ []
+
+
+Overfull \hbox (281.11043pt too wide) in paragraph at lines 55--56
+\OML/cmm/m/it/10 uzawa\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lambda[]ld; solve[]ncon
+strained; constraint[]radient; rho\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 v
+      _new = solve_unconstrained(lambda_old);
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no v in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.57 v_
+       new = solve_unconstrained(lambda_old);
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.59 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (48.08336pt too wide) in paragraph at lines 57--59
+[]$[]\OML/cmm/m/it/10 ew \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (205.56905pt too wide) in paragraph at lines 57--59
+\OML/cmm/m/it/10 solve[]nconstrained\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 lambda[]l
+d\OT1/cmr/m/n/10 ); \OML/cmm/m/it/10 constraint[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (117.1877pt too wide) in paragraph at lines 57--59
+\OML/cmm/m/it/10 constraint[]radient\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 v[]ew\OT1
+/cmr/m/n/10 );$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 l
+      ambda_new = max(0, lambda_old + rho * constraint_gradient(v_new));
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.60 lambda_
+            new = max(0, lambda_old + rho * constraint_gradient(v_new));
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.61 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (48.08336pt too wide) in paragraph at lines 60--61
+[]$[]\OML/cmm/m/it/10 ew \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (85.75409pt too wide) in paragraph at lines 60--61
+\OML/cmm/m/it/10 max\OT1/cmr/m/n/10 (0\OML/cmm/m/it/10 ; lambda[]ld \OT1/cmr/m/
+n/10 +
+ []
+
+
+Overfull \hbox (20.3982pt too wide) in paragraph at lines 60--61
+\OML/cmm/m/it/10 rho \OMS/cmsy/m/n/10 ^^C
+ []
+
+
+Overfull \hbox (121.0766pt too wide) in paragraph at lines 60--61
+\OML/cmm/m/it/10 constraint[]radient\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 v[]ew\OT1
+/cmr/m/n/10 ));$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 e
+      nd
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+)
+! Emergency stop.
+<*> point_and_circle_uzawa.m
+                            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 8 strings out of 494923
+ 220 string characters out of 6180743
+ 49537 words of memory out of 5000000
+ 3423 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,2n,12p,191b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

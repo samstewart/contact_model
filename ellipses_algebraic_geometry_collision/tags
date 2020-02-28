@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+any_quad_overlap	any_quad_overlap.m	/^function overlap = any_quad_overlap(ellipses)$/;"	f
+cartesian_product	cartesian_product.m	/^function points = cartesian_product(v1, v2)$/;"	f
+char_poly_of_ellipse	char_poly_of_ellipse.m	/^function p = char_poly_of_ellipse(e1, e2)$/;"	f
+complex_dot	complex_dot.m	/^function z = complex_dot(z1, z2)$/;"	f
+complex_grid	complex_grid.m	/^function grid = complex_grid(reals, imags)$/;"	f
+constraint_matrix	constraint_matrix.m	/^function M = constraint_matrix(q)$/;"	f
+could_be_overlapping	could_be_overlapping.m	/^function might = could_be_overlapping(e1, e2)$/;"	f
+dist_between_ellipses	dist_between_ellipses.m	/^function d = dist_between_ellipses(ellipse1, ellipse2, short_radius, long_radius)$/;"	f
+dist_between_ellipses_closest	dist_between_ellipses_closest.m	/^function d = dist_between_ellipses_closest(e1, e2, theta1, theta2)$/;"	f
+dist_to_point	dist_to_point.m	/^function [t1, d] = dist_to_point(ellipse, t1, p, w, n)$/;"	f
+distances_between_ellipses	distances_between_ellipses.m	/^function distances = distances_between_ellipses(ellipses1, ellipses2, obstacles, short_radius, long_radius)$/;"	f
+edge_points_dist_between_ellipses	edge_points_dist_between_ellipses.m	/^function [min1, min2, d] = edge_points_dist_between_ellipses(e1, e2, theta1, theta2, w, n)$/;"	f
+ellipse_distance_to_point	ellipse_distance_to_point.m	/^function d = ellipse_distance_to_point(ellipse, p)$/;"	f
+ellipse_overlap_quad	ellipse_overlap_quad.m	/^function overlap = ellipse_overlap_quad(e1, e2)$/;"	f
+ellipses_overlap	ellipses_overlap.m	/^function overlap = ellipses_overlap(e1, e2)$/;"	f
+fun_sim_quad	fun_sim_quad.m	/^function fun_sim_quad(config_0, targets) $/;"	f
+fun_simulation	fun_simulation.m	/^function fun_simulation(config_0 ) $/;"	f
+group_metric	group_metric.m	/^function d = group_metric(g1, g2)$/;"	f
+input_ellipse_and_goal	input_ellipse_and_goal.m	/^function [config, goal] = input_ellipse_and_goal()$/;"	f
+input_ellipses	input_ellipses.m	/^function [configs, goals] = input_ellipses(n)$/;"	f
+inside_ellipse	inside_ellipse.m	/^function is_inside = inside_ellipse(ellipse, p)$/;"	f
+linear_operator_to_matrix_in_standard_basis	linear_operator_to_matrix_in_standard_basis.m	/^function M = linear_operator_to_matrix_in_standard_basis(L, n)$/;"	f
+min_two_variable_function	min_two_variable_function.m	/^function [m1, m2, d] = min_two_variable_function(f, x1, x2)$/;"	f
+modify_m	modify_m.m	/^function M = modify_m(M)$/;"	f
+neighborhood_of_configuration	neighborhood_of_configuration.m	/^function cs = neighborhood_of_configuration(c, n_x, n_theta, dx, dtheta)$/;"	f
+obstacle_matrix	obstacle_matrix.m	/^function M = obstacle_matrix(q)$/;"	f
+overlaps_over_ellipses	overlaps_other_ellipses.m	/^function overlaps = overlaps_over_ellipses(k, c, cp)$/;"	f
+plot_ellipses	plot_ellipses.m	/^function p = plot_ellipses(ellipses)$/;"	f
+plot_level_set_ellipse	plot_level_set_ellipse.m	/^function plot_level_set_ellipse(config)$/;"	f
+points_on_boundary	points_on_boundary.m	/^function ps = points_on_boundary(ellipses, n)$/;"	f
+points_on_boundary_in_interval	points_on_boundary_in_interval.m	/^function ps = points_on_boundary_in_interval(ellipses, thetas)$/;"	f
+possible_positions_and_orientations	possible_positions_and_orientations.m	/^function moves = possible_positions_and_orientations(ellipse, n_positions, n_orientations, position_step_size)$/;"	f
+project_to_legal_position	project_to_legal_position.m	/^function legal_q = project_to_legal_position(q_0, q, radius)$/;"	f
+quad_score_perturb	quad_score_perturb.m	/^function scores = quad_score_perturb(k, perturbations, cur_c, desired_c)$/;"	f
+quadratic_form_for_ellipse	quadratic_form_for_ellipse.m	/^function M = quadratic_form_for_ellipse(config)$/;"	f
+random_project	random_project.m	/^function projected  = random_project(k, cur_c, desired_c)$/;"	f
+replace_row	replace_row.m	/^function v = replace_row(v, k, w)$/;"	f
+roots_of_unity	roots_of_unity.m	/^function roots = roots_of_unity(n)$/;"	f
+score_perturbations	score_perturbations.m	/^function [scores, closest_angles] = score_perturbations(k, perturbations, cur_c, desired_c, closest_angles)$/;"	f
+set_diagonal	set_diagonal.m	/^function M = set_diagonal(M, diag)$/;"	f
+shuffle	shuffle.m	/^function shuffled = shuffle(v)$/;"	f
+signed_dist_between_points_on_ellipses	signed_dist_between_points_on_ellipses.m	/^function signed_d = signed_dist_between_points_on_ellipses(e1, e2, p1, p2)$/;"	f
+single_point_on_boundary	single_point_on_boundary.m	/^function p = single_point_on_boundary(ellipse, theta, short_radius, long_radius)$/;"	f
+test2Test	renamed_temporarily.m	/^function tests = test2Test$/;"	f
+test2Test	test3.m	/^function tests = test2Test$/;"	f
+testMakingEdgePoints	renamed_temporarily.m	/^function testMakingEdgePoints(tc)$/;"	f
+testQuadraticStuff	test3.m	/^function testQuadraticStuff(tc)$/;"	f
+testTouching	renamed_temporarily.m	/^function testTouching(tc)$/;"	f
+update_closest	update_closest.m	/^function [closest_angles, closest_distances] = update_closest(c, closest_angles)$/;"	f
+update_closest_for_perturbation	update_closest_for_perturbation.m	/^function [closest_angles, closest_distances] = update_closest_for_perturbation(k, perturbation, cur_c, closest_angles)$/;"	f

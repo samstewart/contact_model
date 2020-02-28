@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+
+\bibitem{choi2006continuous}
+Y-K Choi, Wenping Wang, Yang Liu, and M-S Kim.
+\newblock Continuous collision detection for two moving elliptic disks.
+\newblock {\em IEEE Transactions on Robotics}, 22(2):213--224, 2006.
+
+\bibitem{edmond2005relaxation}
+Jean~Fenel Edmond and Lionel Thibault.
+\newblock Relaxation of an optimal control problem involving a perturbed
+  sweeping process.
+\newblock {\em Mathematical programming}, 104(2-3):347--373, 2005.
+
+\bibitem{maisonobe2003}
+L.~MAISONOBE.
+\newblock {Quick computation of the distance between a point and an ellipse}.
+\newblock
+  \url{http://www.spaceroots.org/documents/distance/distance-to-ellipse.pdf},
+  2003.
+\newblock [Online; accessed March 6, 2019].
+
+\bibitem{maury2011discrete}
+Bertrand Maury and Juliette Venel.
+\newblock A discrete contact model for crowd motion.
+\newblock {\em ESAIM: Mathematical Modelling and Numerical Analysis},
+  45(1):145--168, 2011.
+
+\end{thebibliography}

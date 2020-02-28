@@ -1,0 +1,11 @@
+function exit_through_door_example(n)
+
+	obstacles = [(-20 - 1i) (-1/2 - 1i); (1/2 - 1i) ( 20 - 1i)];
+
+	q_0 = random_complex_numbers(n, [-10 10], [-3 -5]);
+
+	speeds = .01 + .02 * rand(n, 1);
+	
+	fun_simulation(q_0, obstacles, @(q) velocity_pointing_at_point(q, 2*i * ones(n, 1), speeds), 1/2)
+
+end
